@@ -11,7 +11,7 @@ The dashboard is designed as a decision-support tool rather than a static report
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard%20Images/Dashboard.jpg" width="900">
+  <img src="./Dashboard%20Images/Dashboard.jpg" width="900">
 </p>
 
 ------------------------------------------------------------

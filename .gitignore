@@ -1,0 +1,5 @@
+# macOS system files
+.DS_Store
+
+# Git attributes (ignore if not needed)
+.gitattributes

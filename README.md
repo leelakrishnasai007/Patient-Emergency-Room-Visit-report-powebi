@@ -9,7 +9,7 @@ The dashboard is designed as a decision-support tool rather than a static report
 
 ## Dashboard Preview
 
-![Emergency Room Analytics Dashboard](Dashboard Images/Dashboard.jpg)
+![Emergency Room Analytics Dashboard](Dashboard_Images/Dashboard.jpg)
 
 
 

@@ -6,12 +6,13 @@ This project transforms raw healthcare visit data into actionable insights using
 
 The dashboard is designed as a decision-support tool rather than a static report.
 
+------------------------------------------------------------
 
 ## Dashboard Preview
 
-![Emergency Room Analytics Dashboard](Dashboard_Images/Dashboard.jpg)
-
-
+<p align="center">
+  <img src="Dashboard%20Images/Dashboard.jpg" width="900">
+</p>
 
 ------------------------------------------------------------
 
